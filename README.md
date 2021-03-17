@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Jogo da velha criado em Python
+ Jogo da Velha criado em Python
