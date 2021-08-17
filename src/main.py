@@ -1,4 +1,4 @@
-import os
+from os import system
 from time import sleep
 
 def check_winner(simbol):
